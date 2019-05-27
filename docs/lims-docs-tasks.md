@@ -25,11 +25,11 @@ sidebar_label: 任务管理
 - **分配检测人员** 以委托单为单位分配检测任务，即将当前委托单下所有的检测任务一次性分配给检测人员，可以分配给一个人，也可以分配给不同的人。
 
 ### 操作说明
-点击{工作台（2.0）}-->{任务管理}-->{委托列表}菜单，弹出[委托列表页面](#委托列表页面),如下图所示：
+点击{实验室管理}-->{任务管理}-->{委托列表}菜单，弹出[委托列表页面](#委托列表页面),如下图所示：
 
 <html><span id='委托列表页面'></span></html>
 
-![委托列表页面](http://datmfiles.ebookchain.org/1J45K3RHDN5LES-%E5%90%88%E5%90%8C%E7%AE%A1%E7%90%86-%E5%90%88%E5%90%8C%E5%88%97%E8%A1%A8.png  "委托列表页面")
+![委托列表页面](http://datmfiles.ebookchain.org/1JDjsjMfRLG%E5%A7%94%E6%89%98%E7%AE%A1%E7%90%86-%E5%A7%94%E6%89%98%E5%88%97%E8%A1%A8.png "委托列表页面")
 在[委托列表页面](#委托列表页面)中可执行如下操作：
 
   **1) 分配制样部门**  
@@ -66,12 +66,12 @@ sidebar_label: 任务管理
 
 #### 操作说明
 
-点击{工作台（2.0）}-->{任务管理}-->{样品列表}菜单,弹出[样品列表页面](#样品列表页面)，如下图所示：
+点击{实验室管理}-->{任务管理}-->{样品列表}菜单,弹出[样品列表页面](#样品列表页面)，如下图所示：
 
 
 <html><span id='样品列表页面'></span></html>
 
-![样品列表页面](http://datmfiles.ebookchain.org/1JgBL4VtKkuLES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A0%B7%E5%93%81%E5%88%97%E8%A1%A8.png "样品列表页面")
+![样品列表页面](http://datmfiles.ebookchain.org/1JE0yPlKTaY%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A0%B7%E5%93%81%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "样品列表页面")
 
 在[样品列表页面](#样品列表页面)中，可执行如下操作。
 
@@ -116,11 +116,11 @@ sidebar_label: 任务管理
 
 #### 操作说明
 
-点击{工作台（2.0）}-->{任务管理}-->{检测列表}菜单，弹出[检测列表页面](#检测列表页面),如下图所示：
+点击{实验室管理}-->{任务管理}-->{检测列表}菜单，弹出[检测列表页面](#检测列表页面),如下图所示：
 
 <html><span id='检测列表页面'></span></html>
 
-![检测列表页面](http://datmfiles.ebookchain.org/1JgCpXzQvzULES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E5%88%97%E8%A1%A8.png "检测列表页面")
+![检测列表页面](http://datmfiles.ebookchain.org/1JE1eOnWehH%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "检测列表页面")
 在[检测列表页面](#检测列表页面)中，可执行如下操作：
 
   **1)分配检测部门**  
@@ -153,7 +153,7 @@ sidebar_label: 任务管理
 [制样部门任务分配页面](#制样部门任务分配页面),如下图所示：
 <html><span id='制样部门任务分配页面'></span></html>
 
-![制样部门任务分配页面](http://datmfiles.ebookchain.org/1Jf1PHTfxHnLES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%88%B6%E6%A0%B7%E9%83%A8%E9%97%A8%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E9%A1%B5%E9%9D%A2.png "制样部门任务分配页面")
+![制样部门任务分配页面](http://datmfiles.ebookchain.org/1JE2cc2feOd%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%88%B6%E6%A0%B7%E9%83%A8%E9%97%A8%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "制样部门任务分配页面")
 
 在[制样部门任务分配页面](#制样部门任务分配页面)中，可执行如下操作：
 
@@ -185,7 +185,7 @@ sidebar_label: 任务管理
 
 <html><span id='检测部门任务分配页面'></span></html>
 
-![检测部门任务分配页面](http://datmfiles.ebookchain.org/1JfeYZLiCuILES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E9%83%A8%E9%97%A8%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E9%A1%B5%E9%9D%A2.png "检测部门任务分配页面")
+![检测部门任务分配页面](http://datmfiles.ebookchain.org/1JE2KVw4Cvo%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E9%83%A8%E9%97%A8%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "检测部门任务分配页面")
 
 在[检测部门任务分配页面](#检测部门任务分配页面)中，可执行如下操作：
 
@@ -222,7 +222,7 @@ sidebar_label: 任务管理
 
 <html><span id='制样人员任务分配页面'></span></html>
 
-![制样人员任务分配页面](http://datmfiles.ebookchain.org/1JfMqY6OM5wLES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%88%B6%E6%A0%B7%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E9%A1%B5%E9%9D%A2.png "制样人员任务分配页面")
+![制样人员任务分配页面](http://datmfiles.ebookchain.org/1JE3HPa3UEv%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E5%88%B6%E6%A0%B7%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "制样人员任务分配页面")
 
 在[制样人员任务分配页面](#制样人员任务分配页面)中，可执行如下操作：
 
@@ -277,7 +277,7 @@ sidebar_label: 任务管理
 
 <html><span id='检测人员任务分配页面'></span></html>
 
-![检测人员任务分配页面](http://datmfiles.ebookchain.org/1JfN08Ulgu8LES-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E9%A1%B5%E9%9D%A2.png "检测人员任务分配页面")
+![检测人员任务分配页面](http://datmfiles.ebookchain.org/1JE4cZotUlJ%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-%E6%A3%80%E6%B5%8B%E4%BA%BA%E5%91%98%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E6%93%8D%E4%BD%9C%E9%A1%B5%E9%9D%A2.png "检测人员任务分配页面")
 
 在[检测人员任务分配页面](#检测人员任务分配页面)中，可执行如下操作：
 
